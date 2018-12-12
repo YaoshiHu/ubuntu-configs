@@ -1,4 +1,5 @@
 # ubuntu-configs
-basic ubuntu configurations
+some configurations
 
-Currently only the bash file with very little packages are written, I am planning to write a makefile later.
+This repo was originally used for ubuntu configurations, then I thought it is better to be used to save all the config files
+
